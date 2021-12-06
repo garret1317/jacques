@@ -1,7 +1,15 @@
 # baguette-bot
 
-you ask for baguette
+baguette dispensary
 
-it provides
+config is done with `.env`
 
-replace `token` with your actual token, will add proper way soonTM
+due to `.env` not allowing newlines help will never be helpful
+
+sane values
+```
+JACQUES_TOKEN = "token"
+JACQUES_PREFIX = "?"
+JACQUES_BAGUETTE = ":french_bread:"
+JACQUES_HELP = "no"
+```
